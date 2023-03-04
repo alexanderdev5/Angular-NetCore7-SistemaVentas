@@ -13,4 +13,8 @@
     <ProjectReference Include="..\SistemaVenta.Utility\SistemaVenta.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\Contrato\" />
+  </ItemGroup>
+
 </Project>
